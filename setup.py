@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 import sys
 
 #NOTE: if you want to develop askbot
-#you might want to install django-debug-toolbar as well
+#you might also want to install django-debug-toolbar as well
 
 import askbot
 
